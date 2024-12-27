@@ -39,7 +39,7 @@ export default observer(function WelcomeScreen() {
       </View>
     </Screen>
   )
-// @mst replace-next-line }
+  // @mst replace-next-line }
 })
 
 const $container: ThemedStyle<ViewStyle> = ({ colors }) => ({
